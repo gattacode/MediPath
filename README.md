@@ -34,6 +34,8 @@ This is an example of how to list things you need to use the software and how to
 3. Ensure Java and JavaFX are set up and the paths are configured correctly.
 4. Build and run the application.
 
+Or if you only want to run the application, you can download and run the jar file located at:
+out/artifacts/MediPath_jar/MediPath.jar
 ## Usage
 
 Use MediPath to:
