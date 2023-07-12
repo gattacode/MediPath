@@ -6,7 +6,6 @@
 package com.medipath.main;
 
 import java.util.Random;
-import com.formdev.flatlaf.FlatIntelliJLaf;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Desktop;
@@ -2288,8 +2287,7 @@ public class MainApplication extends javax.swing.JFrame {
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
          * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
          */
-        FlatIntelliJLaf.setup();
-
+        com.formdev.flatlaf.FlatIntelliJLaf.install();
         //</editor-fold>
 
         /* Create and display the form */
