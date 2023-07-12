@@ -29,7 +29,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Clone the MediPath repo: git clone https://github.com/your_username_/MediPath.git
+1. Clone the MediPath repo: git clone https://github.com/gattacode/MediPath.git
 2. Open the project in your favorite IDE.
 3. Ensure Java and JavaFX are set up and the paths are configured correctly.
 4. Build and run the application.
